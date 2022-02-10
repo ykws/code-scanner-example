@@ -1,5 +1,7 @@
 # code-scanner-example
 
+[![Android CI](https://github.com/ykws/code-scanner-example/actions/workflows/android.yml/badge.svg)](https://github.com/ykws/code-scanner-example/actions/workflows/android.yml)
+
 Example [code-scanner](https://github.com/yuriy-budiyev/code-scanner) for Java
 
 ## Workaround
